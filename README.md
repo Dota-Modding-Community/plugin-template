@@ -2,6 +2,10 @@
 
 A starter template for building plugins for [Dota 2 Minify](https://github.com/egezenn/dota2-minify).
 
+## Mod Submission
+
+Submit a PR to [community](https://github.com/Dota-Modding-Community/community) repository.
+
 ## Repository Structure
 
 ```text
